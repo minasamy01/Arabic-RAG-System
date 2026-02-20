@@ -1,6 +1,3 @@
-أبشر يا مينا، ده الكود الكامل لملف الـ **README.md** بعد كل التعديلات اللي عملناها، شامل الـ **Badges**، الـ **Architecture**، وقسم الـ **Author** الاحترافي في الآخر:
-
-```markdown
 # 🛸 Semantic-RAG: Advanced Arabic Document QA
 ### *Bridging Semantic Search & Generative AI for Arabic Context*
 
