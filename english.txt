@@ -1,0 +1,48 @@
+
+# GLOBAL TRAVEL & EXPENSE POLICY (GTEP-2025)
+
+## 1. Objective and Scope
+This policy establishes the mandatory guidelines for business travel, entertainment, and related expenses incurred by employees of OmniCorp. The objective is to ensure that travel is comfortable, safe, and sustainable, while strictly maintaining cost-effectiveness and fiduciary responsibility. This policy applies to all full-time employees, contractors, and consultants billing time to OmniCorp across all global subsidiaries.
+
+## 2. Air Travel Guidelines
+### 2.1 Class of Service
+- **Domestic Flights (Under 6 hours):** All employees must book Economy Class. Economy Plus/Select is permitted only if the employee is expected to work immediately upon arrival, the flight occurs during business hours, and the cost differential is less than $150.
+- **International Flights (Over 6 hours):** Business Class is permitted for Directors and above. Senior Managers may book Premium Economy.
+- **Exceptions:** Any medical exceptions requiring upgraded seating must be documented by a physician and approved by HR and the Chief Financial Officer (CFO) prior to booking.
+
+### 2.2 Booking Window and Cancellations
+Flights must be booked at least 14 days in advance via the corporate portal. Bookings made within 7 days of travel require a "Reason Code" entered into the Concur system. Failure to provide a valid reason (e.g., urgent client crisis) will result in the expense being flagged for audit. Unused non-refundable tickets remain the property of OmniCorp and must be applied to future business travel for the same employee within the airline's credit validity period.
+
+## 3. Lodging and Accommodation
+### 3.1 Standard Limits
+- **Tier 1 Cities (NY, London, Tokyo, Dubai, Hong Kong):** Maximum nightly rate of $350 USD (excluding VAT/local taxes).
+- **Tier 2 Cities (Austin, Berlin, Toronto, Singapore):** Maximum nightly rate of $250 USD.
+- **Tier 3 Cities (All others):** Maximum nightly rate of $180 USD.
+
+### 3.2 Non-Reimbursable Items
+The following hotel charges are personal and will not be reimbursed:
+1. In-room movies, gaming, or entertainment services.
+2. Minibar purchases (unless replacing a missed meal due to late arrival, capped at $20).
+3. Gym fees (unless the hotel does not have a free gym and the stay exceeds 3 nights).
+4. Laundry services for trips shorter than 5 business days.
+5. "No-show" charges incurred due to employee negligence.
+
+## 4. Ground Transportation
+### 4.1 Car Rentals
+Rentals are permitted when public transport or ride-sharing is inefficient. Employees must book "Intermediate" class vehicles. OmniCorp maintains a global insurance policy; therefore, employees must decline the rental agency’s Loss Damage Waiver (LDW) and Collision Damage Waiver (CDW). Accepting these specifically will be considered a non-reimbursable personal expense.
+
+### 4.2 Rail and Ride-Share
+- **Rail:** First Class rail travel is permitted only for inter-city travel exceeding 3 hours (e.g., Acela, Eurostar).
+- **Ride-Share:** Uber/Lyft usage should utilize "Standard" or "X" tiers. "Black" or "Lux" tiers are prohibited unless accompanying a client.
+
+## 5. Client Entertainment & Anti-Bribery
+Employees may expense meals with clients provided there is a clear business purpose aligned with the Foreign Corrupt Practices Act (FCPA) and UK Bribery Act.
+- **Spending Cap:** $100 per person for dinner, $50 per person for lunch.
+- **Alcohol:** Moderate consumption is permitted but must not exceed 30% of the total bill. Buying alcohol for government officials is strictly prohibited.
+- **Documentation:** Names, titles, and company affiliations of all attendees must be listed in the expense report. Itemized receipts (not just credit card slips) are mandatory for any expense over $25.
+
+## 6. Bleisure (Business + Leisure)
+Employees wishing to extend business trips for personal leisure ("Bleisure") must obtain prior written approval. OmniCorp will not reimburse any expenses related to the personal portion of the trip (lodging, meals, transport). If the return flight costs increase due to the extended dates, the employee is responsible for paying the fare difference. The company's travel insurance coverage ceases during the personal portion of the itinerary.
+
+## 7. Currency and Reimbursement
+Expenses incurred in foreign currencies will be reimbursed in the employee's home currency based on the exchange rate on the transaction date (as per OANDA or the credit card statement). Cash expenses require a receipt and a notation of the exchange rate used if currency was exchanged physically at a bureau de change.
