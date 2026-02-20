@@ -2,7 +2,7 @@
 ### *Bridging Semantic Search & Generative AI for Arabic Context*
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Gemini](https://img.shields.io/badge/Google_Gemini-2.0_Flash-orange.svg?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev/)
+[![Gemini](https://img.shields.io/badge/Google_Gemini-2.5_Flash-orange.svg?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev/)
 [![FAISS](https://img.shields.io/badge/Vector_DB-FAISS-green.svg?style=for-the-badge&logo=meta&logoColor=white)](https://github.com/facebookresearch/faiss)
 [![Sentence_Transformers](https://img.shields.io/badge/Embeddings-BGE_M3-red.svg?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/BAAI/bge-m3)
 
