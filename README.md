@@ -1,3 +1,6 @@
+أبشر يا مينا، ده الكود الكامل لملف الـ **README.md** بعد كل التعديلات اللي عملناها، شامل الـ **Badges**، الـ **Architecture**، وقسم الـ **Author** الاحترافي في الآخر:
+
+```markdown
 # 🛸 Semantic-RAG: Advanced Arabic Document QA
 ### *Bridging Semantic Search & Generative AI for Arabic Context*
 
@@ -11,9 +14,17 @@
 ## 📖 Overview
 **Semantic-RAG** is a high-performance **Retrieval-Augmented Generation** engine specifically engineered for Arabic and English semantic understanding. By bridging the gap between local knowledge bases and Large Language Models, this system ensures that AI responses are **fact-based**, **context-aware**, and **hallucination-free**.
 
+## 🏗️ System Architecture
+The system follows a professional RAG pipeline to ensure precision:
+1. **Document Ingestion**: Extracting text from `arabic.txt` and `english.txt`.
+2. **Smart Chunking**: Splitting text into 120-character overlapping chunks to preserve semantic context.
+3. **Vectorization**: Creating dense embeddings using the **BGE-M3** multilingual model.
+4. **Semantic Search**: Using **FAISS** for lightning-fast similarity retrieval.
+5. **Grounded Generation**: Injecting context into **Gemini 2.0 Flash** with strict instructions to prevent hallucinations.
+
 ## ✨ Core Highlights
 * **🌍 Multilingual Mastery:** Native support for Arabic and English using `BAAI/bge-m3`.
-* **⚡ Lightning Retrieval:** In-memory vector search powered by **FAISS**, optimized for sub-millisecond similarity matching.
+* **⚡ Lightning Retrieval:** In-memory vector search powered by **FAISS**, optimized for sub-millisecond matching.
 * **🧠 Deep Contextualization:** 120-character overlapping chunks ensure semantic continuity.
 * **🛡️ Reliability:** Strict grounding instructions force the LLM to answer *only* from your provided text.
 
@@ -29,7 +40,7 @@
 
 ---
 
-## 📁 Project Architecture
+## 📁 Project Structure
 ```bash
 .
 ├── 📂 venv/              # Isolated environment
@@ -48,8 +59,8 @@
 ### 1️⃣ Installation
 
 ```bash
-git clone [https://github.com/minasamy01/session-5.git](https://github.com/minasamy01/session-5.git)
-cd session-5
+git clone [https://github.com/minasamy01/Arabic-RAG-System.git](https://github.com/minasamy01/Arabic-RAG-System.git)
+cd Arabic-RAG-System
 pip install -r requirements.txt
 
 ```
@@ -72,8 +83,19 @@ python rag.py
 
 ---
 
+## 🔮 Future Roadmap
+
+* [ ] **Streamlit UI**: Developing a web-based chat interface.
+* [ ] **PDF Ingestion**: Adding support for reading complex PDF documents.
+* [ ] **Hybrid Search**: Combining Keyword (BM25) with Vector search for better accuracy.
+
+---
+
 ## 👨‍💻 Author
 
 **Mina Samy** *AI & NLP Developer*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-samy-ai) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minasamy01)
 
 ---
