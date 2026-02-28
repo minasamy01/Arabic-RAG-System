@@ -31,7 +31,7 @@ The system follows a professional RAG pipeline to ensure precision:
 | Component | Technology | Role |
 | :--- | :--- | :--- |
 | **Language** | `Python 3.x` | Core Logic |
-| **LLM** | `Google Gemini 2.0 Flash` | Generative Intelligence |
+| **LLM** | `Google Gemini 2.5 Flash` | Generative Intelligence |
 | **Embeddings** | `BGE-M3 (FlagEmbedding)` | Multi-stage Semantic Encoding |
 | **Vector DB** | `FAISS (FlatIP)` | Similarity Search Engine |
 
